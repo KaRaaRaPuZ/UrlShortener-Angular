@@ -116,3 +116,8 @@ C:\Users\anoni\Desktop\GitRepos\UrlShortener-Angular\UrlShortener\bin\Debug\net6
 C:\Users\anoni\Desktop\GitRepos\UrlShortener-Angular\UrlShortener\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\anoni\Desktop\GitRepos\UrlShortener-Angular\UrlShortener\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\anoni\Desktop\GitRepos\UrlShortener-Angular\UrlShortener\obj\Debug\net6.0\UrlShortener.csproj.CopyComplete
+C:\Users\anoni\Desktop\GitRepos\UrlShortener-Angular\UrlShortener\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\anoni\Desktop\GitRepos\UrlShortener-Angular\UrlShortener\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\anoni\Desktop\GitRepos\UrlShortener-Angular\UrlShortener\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\anoni\Desktop\GitRepos\UrlShortener-Angular\UrlShortener\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\anoni\Desktop\GitRepos\UrlShortener-Angular\UrlShortener\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
