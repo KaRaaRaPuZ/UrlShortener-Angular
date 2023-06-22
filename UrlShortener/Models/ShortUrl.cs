@@ -7,5 +7,13 @@
         public string ShortenedUrl { get; set; }
         public string CreatedBy { get; set; }  // The user who created the URL
         public DateTime CreatedDate { get; set; }
+        public ShortUrl(string originalUrl, string shortenedUrl)
+        {
+            OriginalUrl = originalUrl;
+            ShortenedUrl = shortenedUrl;
+            CreatedBy = "User";
+            CreatedDate = DateTime.Now;
+        }
+
     }
 }
